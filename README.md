@@ -48,7 +48,7 @@ git clone https://github.com/Cinthiacs/Rega_automatizada.git
 Se você encontrar problemas com este código ou tiver sugestões de melhoria, por favor, abra uma issue ou um pull request neste repositório.
 
 
-# Video pitch exemplificando o projeto:
+### Video pitch exemplificando o projeto:
 https://youtu.be/SiPStwmjtIQ
 
 ### Autora
