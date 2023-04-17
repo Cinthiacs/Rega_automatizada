@@ -51,7 +51,6 @@ Se você encontrar problemas com este código ou tiver sugestões de melhoria, p
 # Video pitch exemplificando o projeto:
 https://youtu.be/SiPStwmjtIQ
 
-```
 ### Autora
 
 Cinthia Cavalheiro.
