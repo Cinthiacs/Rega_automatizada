@@ -5,6 +5,10 @@ Projeto 2° sem Engenharia de Computação.
 
 #Tema trabalhado: "Água".
 
+<div align="center">
+  <img width= "411" alt="IMG_20230202_113442" src="https://github.com/Cinthiacs/Rega_automatizada/blob/main/regaAuto.png">
+</div>
+
 Projeto com o propósito de automatizar a irrigação de uma plantação caseira, possibilitando aferir a irrigação do solo, através de um sensor de umidade, onde está conectado ao microcontrolador Arduino UNO, foi feita a programação HIGH para sensor seco, ligando o led vermelho, em sequencia o led amarelo para enviar energia para o relé e acionar a bomba, e else (caso contrário) para úmido, ligando o led verde encerrando o ciclo.
 
 O sensor de umidade está ligado a um comparador para que haja a aferição correta da umidade do solo.
