@@ -1,5 +1,5 @@
 # Rega_automatizada
-Projeto 2° sem Engenharia de Computação.
+Projeto 2° sem Engenharia de Computação|Facens-Sorocaba/SP.
 
 # Sobre o projeto
 
